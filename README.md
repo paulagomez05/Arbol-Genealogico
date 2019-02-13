@@ -1,4 +1,5 @@
 # Arbol-Genealogico
+## Paula Andrea Gomez 20152020927- Andres David Orjuela 20152020923
 
 #### Este programa consiste en la elaboracion de un arbol genealogico por medio de prolog, en que se detalla la forma logica como esta constituida nuestra familia.
 
